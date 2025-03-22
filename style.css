@@ -43,6 +43,7 @@ ol li, ul li {
         @media (max-width: 768px) {
             .container {
                 width: 95%;
+                margin: 10px auto;
                 padding: 15px;
             }
             h1 {
